@@ -22,9 +22,8 @@ Knowledge is timeless... And through it, we discover the infinite that is in us.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=AWS)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Jenkins](https://img.shields.io/badge/-Jenkins-00BFFF?style=flat-square&logo=jenkins)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 #
