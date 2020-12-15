@@ -18,10 +18,7 @@ Knowledge is timeless... And through it, we discover the infinite that is in us.
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-D8BFD8?style=flat-square&logo=python)
-![React Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-
-
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=AWS)
