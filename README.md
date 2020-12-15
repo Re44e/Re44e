@@ -11,23 +11,25 @@ Knowledge is timeless... And through it, we discover the infinite that is in us.
 
 ##
 
-<h4>Knowledge base</h4>
+<h3>Knowledge Base</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-D8BFD8?style=flat-square&logo=python)
-##
 ![React Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-##
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=AWS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-00BFFF?style=flat-square&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+#
 
 
