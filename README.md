@@ -1,6 +1,7 @@
 #
-<h4>Jean Pita</br>
-Software Engineer</h4>
+<strong>Jean Pita</strong>
+</br>
+Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/re44e/)](https://www.linkedin.com/in/re44e/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitaplj@gmail.com)](pitaplj@gmail.com)
