@@ -1,8 +1,7 @@
 #
 
-
-<h6>Jean Pita</br>
-  Software Engineer</h6>
+<h4>Jean Pita</h4></br>
+<h6>Software Engineer</h6>
 
 
 
