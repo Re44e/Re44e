@@ -1,5 +1,5 @@
 #
-<strong>Jean Pita</strong>
+<strong>By Jean Pita</strong>
 </br>
 Software Engineer
 
