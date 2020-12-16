@@ -1,4 +1,4 @@
-<h3>Jean Pita</h3> 
+<h4>Jean Pita</h4> 
 
 Software Engineer
 
@@ -6,8 +6,8 @@ Software Engineer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitaplj@gmail.com)](pitaplj@gmail.com)
 
 ##
-<h4>Transdisciplinarity and persistence...</br>
-Knowledge is timeless... And through it, we discover the infinite that is in us...</h4>
+<h4>Transcending lines of code...</br>
+"Knowledge is timeless... And through it, we discover the infinite that is in us..."</h4>
 
 ##
 
@@ -22,7 +22,7 @@ Knowledge is timeless... And through it, we discover the infinite that is in us.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=AWS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-90EE90?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
