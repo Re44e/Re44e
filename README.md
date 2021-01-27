@@ -15,7 +15,6 @@ Software Engineer
 <h3>Knowledge Base</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-D8BFD8?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java)
