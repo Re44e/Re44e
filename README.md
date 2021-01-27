@@ -4,7 +4,7 @@
 Software Engineer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/re44e/)](https://www.linkedin.com/in/re44e/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitaplj@gmail.com)](pitaplj@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pitaplj@gmail.com)](mailto:pitaplj@gmail.com)
 
 ##
 <h4>Transcending lines of code...</br>
@@ -15,7 +15,7 @@ Software Engineer
 <h3>Knowledge Base</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-EBCAFC?style=flat-square&logo=typescript)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-D8BFD8?style=flat-square&logo=python)
