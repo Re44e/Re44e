@@ -18,12 +18,12 @@ Software Engineer
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-E10098?style=flat-square&logo=Jest)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=AWS)
-![MongoDB](https://img.shields.io/badge/-MongoDB-90EE90?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 #
