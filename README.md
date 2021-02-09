@@ -12,7 +12,7 @@ Software Engineer
 
 ##
 
-<h3>Study Core</h3>
+<h3>My Study Core</h3>
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
