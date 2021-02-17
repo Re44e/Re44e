@@ -15,10 +15,8 @@ Software Engineer
 <h4>My Core of Study</h4>
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 #
-
-
