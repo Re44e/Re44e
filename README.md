@@ -14,8 +14,6 @@ Software Engineer
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-##
-
 <h4>Transcending lines of code...</br>
 "Knowledge is timeless. And through it, we discover the infinite that is in us..."</h4>
 
