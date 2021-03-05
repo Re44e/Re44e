@@ -1,5 +1,5 @@
 #
-<strong>Whith ♥ by Jean Pita</strong>
+<strong>With ♥ by Jean Pita</strong>
 </br>
 Software Engineer
 
