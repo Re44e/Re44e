@@ -7,7 +7,7 @@ Software Engineer
 
 ##
 <h4>Transcending lines of code...</br>
-"Knowledge is timeless... And through it, we discover the infinite that is in us..."</h4>
+"Knowledge is timeless. And through it, we discover the infinite that is in us..."</h4>
 
 ##
 
