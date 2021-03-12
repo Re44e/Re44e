@@ -8,6 +8,6 @@ Software Engineer
 ##
 
 <h4>"Transcending lines of code...</br>
-Knowledge is timeless and through it we discover the infinite..."</h4>
+Knowledge is timeless. And through it we discover the infinite..."</h4>
 
 #
