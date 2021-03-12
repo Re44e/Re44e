@@ -9,6 +9,6 @@ Software Engineer</br>
 
 ##
 
-<h4>Transcending lines of code... ♥</h4>
+<h4> ♥ Transcending lines of code...</h4>
 
 #
