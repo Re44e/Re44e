@@ -8,9 +8,5 @@ Software Engineer
 "Knowledge is timeless. And through it we discover the infinite..."
 
 
-
-##
-
 <h4> ♥ Transcending lines of code...</h4>
-
-#
+##
